@@ -1,7 +1,3 @@
-﻿# APILoja
-# APILoja
-# APILoja
-# APILoja
-# APILoja
-⌢䄠䥐潌慪•਍⌢䄠䥐潌慪•਍⌢䄠䥐潌慪•਍# APILoja
+# Criando nosso segundo API loja
+
 
